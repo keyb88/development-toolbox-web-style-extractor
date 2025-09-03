@@ -1,0 +1,3 @@
+|-
+| style='background-color: {color}' | {{{{#tag:colorbox|{color}}}}}
+| <code>{color}</code>

@@ -1,0 +1,37 @@
+{
+  "url": "https://github.com",
+  "extraction_date": "2024-01-15T14:30:22Z",
+  "styles": {
+    "body_background": "rgb(255, 255, 255)",
+    "body_font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+    "heading_color": "rgb(31, 35, 40)",
+    "link_color": "rgb(9, 105, 218)"
+  },
+  "colors": [
+    "#0969da",
+    "#1a7f37", 
+    "#cf222e",
+    "#bf8700",
+    "#ffffff",
+    "#1f2328",
+    "#656d76",
+    "#8c959f",
+    "#afb8c1",
+    "#d1d9e0"
+  ],
+  "fonts": [
+    "-apple-system",
+    "BlinkMacSystemFont", 
+    "Segoe UI",
+    "Helvetica",
+    "Arial",
+    "sans-serif"
+  ],
+  "metadata": {
+    "extractor_version": "1.0",
+    "total_colors_found": 10,
+    "total_fonts_found": 6,
+    "extraction_method": "css_analysis_and_computed_styles",
+    "browser_used": "Chrome (headless)"
+  }
+}

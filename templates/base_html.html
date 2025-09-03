@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Style Guide for {url}</title>
+    <style>
+        body {{ font-family: Arial, sans-serif; margin: 20px; }}
+        .color-palette {{ margin: 20px 0; }}
+        .font-list {{ margin: 20px 0; }}
+    </style>
+</head>
+<body>
+    <h1>Style Guide for {url}</h1>
+
+    <div>
+        <strong>Body Background:</strong> {body_bg}<br>
+        <strong>Body Font:</strong> {body_font}<br>
+        <strong>Heading Color:</strong> {heading_color}<br>
+        <strong>Link Color:</strong> {link_color}
+    </div>
+
+    <h2>Color Palette</h2>
+    <div class="color-palette">
+        {color_rows}
+    </div>
+
+    <h2>Fonts</h2>
+    <ul class="font-list">
+        {font_rows}
+    </ul>
+</body>
+</html>

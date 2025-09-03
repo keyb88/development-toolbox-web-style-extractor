@@ -1,0 +1,20 @@
+== Style Guide for {url} ==
+
+'''Body Background:''' {body_bg}
+'''Body Font:''' {body_font}
+'''Heading Color:''' {heading_color}
+'''Link Color:''' {link_color}
+
+=== Color Palette ===
+{{| class="wikitable"
+|-
+! Color !! Value
+{color_rows}
+|}}
+
+=== Fonts ===
+{{| class="wikitable"
+|-
+! Font
+{font_rows}
+|}}
