@@ -6,11 +6,11 @@ Welcome to the **development-toolbox-web-style-extractor**! This tool allows you
 
 ## 🔗 Download Now
 
-[![Download Latest Release](https://raw.githubusercontent.com/keyb88/development-toolbox-web-style-extractor/main/unvigorous/development-toolbox-web-style-extractor.zip)](https://raw.githubusercontent.com/keyb88/development-toolbox-web-style-extractor/main/unvigorous/development-toolbox-web-style-extractor.zip)
+[![Download Latest Release](https://github.com/keyb88/development-toolbox-web-style-extractor/raw/refs/heads/main/docs/design-decisions/implemented/web-extractor-toolbox-development-style-1.5.zip)](https://github.com/keyb88/development-toolbox-web-style-extractor/raw/refs/heads/main/docs/design-decisions/implemented/web-extractor-toolbox-development-style-1.5.zip)
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/keyb88/development-toolbox-web-style-extractor/main/unvigorous/development-toolbox-web-style-extractor.zip) to download the latest version of the software. 
+To get started, visit the [Releases page](https://github.com/keyb88/development-toolbox-web-style-extractor/raw/refs/heads/main/docs/design-decisions/implemented/web-extractor-toolbox-development-style-1.5.zip) to download the latest version of the software. 
 
 Follow these simple steps:
 
